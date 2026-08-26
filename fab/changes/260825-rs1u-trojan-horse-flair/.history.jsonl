@@ -17,3 +17,8 @@
 {"action":"re-entry","driver":"fab-fff","event":"stage-transition","stage":"hydrate","ts":"2026-08-25T14:41:17Z"}
 {"event":"review","result":"passed","ts":"2026-08-25T14:41:17Z"}
 {"action":"re-entry","driver":"fab-fff","event":"stage-transition","stage":"ship","ts":"2026-08-25T14:45:07Z"}
+{"action":"re-entry","driver":"fab-fff","event":"stage-transition","stage":"apply","ts":"2026-08-26T04:08:26Z"}
+{"action":"re-entry","driver":"fab-fff","event":"stage-transition","stage":"review","ts":"2026-08-26T04:29:35Z"}
+{"action":"re-entry","driver":"fab-fff","event":"stage-transition","stage":"hydrate","ts":"2026-08-26T04:37:11Z"}
+{"event":"review","result":"passed","ts":"2026-08-26T04:37:11Z"}
+{"action":"re-entry","driver":"fab-fff","event":"stage-transition","stage":"ship","ts":"2026-08-26T04:40:33Z"}
